@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:tinted_glass"
+    }
+  },
+  "pattern": [
+    "I",
+    "G",
+    "I"
+  ],
+  "result": {
+    "item": "the_misfits:empty_vial"
+  },
+  "show_notification": true
+}

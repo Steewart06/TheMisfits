@@ -1,0 +1,11 @@
+{   "name": "the_misfits: symbiote_vial", "max_stack_size": 1,
+    "creative_mode_tab": "minecraft:tools_and_utilities",
+    "rarity": "epic",
+    "texture": "the_misfits:textures/item/empty_vial.png",
+    "is_fire_resistant": false,
+    "should_render_model": true,
+"food": {"nutrition": 5,
+        "saturation_modifier": 0.6,
+        "meat": false,
+        "can_always_eat": true}
+    }

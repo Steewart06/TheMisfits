@@ -1,0 +1,10 @@
+{
+    "name":"Empty_Vial",
+    "type": "palladium:item",
+    "max_stack_size":1,
+    "creative_mode_tab": "minecraft:tools_and_utilities",
+    "rarity": "epic",
+    "is_fire_resistant": true,
+    "should_render_model": true,
+    "texture": "the_misfits:textures/item/empty_vial.png"
+}

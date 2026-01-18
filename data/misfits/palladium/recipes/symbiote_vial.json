@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "the_misfits:empty_vial"
+    },
+    "S": {
+      "item": "the_misfits:symbiote_slime"
+    }
+  },
+  "pattern": [
+    "ES"
+  ],
+  "result": {
+    "item": "the_misfits:symbiote_vial"
+  },
+  "show_notification": true
+}

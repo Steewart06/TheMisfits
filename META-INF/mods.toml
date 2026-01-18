@@ -1,0 +1,21 @@
+modLoader="lowcodefml"
+showAsResourcePack = false
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="misfits"
+version="1.0.0"
+logoFile = "logo.png"
+logoBlur = false
+displayName="The Misfits"
+description='''
+A pack made of random custom characters from different multiverses.
+'''
+
+[[dependencies.misfits]]
+modId = "palladium"
+mandatory = true
+versionRange = "[4.4.1,)"
+ordering = "NONE"
+side = "BOTH"

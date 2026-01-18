@@ -1,0 +1,6 @@
+{
+    "type": "palladium:skin_overlay",
+    "render_type": "solid",
+    "texture": "the_misfits:textures/models/symbiote_suit.png",
+      "hide_second_layer": true
+}

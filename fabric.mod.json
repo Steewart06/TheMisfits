@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "Jimbob"
+    ],
+    "environment": "*",
+    "id": "misfits",
+    "version": "1.0.0",
+    "name": "The Misfits",
+    "description": "A pack made of random custom characters from different multiverses.",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}

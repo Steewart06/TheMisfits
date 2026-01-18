@@ -1,0 +1,9 @@
+{
+    "map_color": "minecraft:color_red",
+    "destroy_time": 1.5,
+    "explosion_resistance": 1.5,
+    "render_type": "solid",
+    "no_occlusion": false,
+    "requires_correct_tool_for_drops": false,
+    "register_item": true
+}

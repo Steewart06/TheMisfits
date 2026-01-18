@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "id": "misfits",
+        "pack_format": 15,
+        "description": "A pack made of random custom characters from different multiverses.",
+        "version": "1.0.0"
+    },
+    "dependencies": {
+        "common": {},
+        "fabric": {},
+        "forge": {}
+    }
+}
